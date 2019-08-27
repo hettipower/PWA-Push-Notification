@@ -1,0 +1,40 @@
+{
+    "name"              : "Seya Color",
+    "short_name"        : "Seyacolor",
+    "description"       : "Sri Lankas first state of the art Online album design platform",
+    "start_url"         : ".",
+    "scope": "https://mayaprojects.net/seyademo/",
+    "display"           : "standalone",
+    "orientation"       : "any",
+    "background_color"  : "#FFFFFF",
+    "theme_color"       : "#21439c",
+    "icons": [
+        {
+            "src"           : "https://mayaprojects.net/seyademo/assets/images/app/logo72.png",
+            "sizes"         : "72x72",
+            "type"          : "image/png"
+        },
+        {
+            "src"           : "https://mayaprojects.net/seyademo/assets/images/app/logo152.png",
+            "sizes"         : "152x152",
+            "type"          : "image/png"
+        },
+        {
+            "src"           : "https://mayaprojects.net/seyademo/assets/images/app/logo192.png",
+            "sizes"         : "192x192",
+            "type"          : "image/png"
+        },
+        {
+            "src"           : "https://mayaprojects.net/seyademo/assets/images/app/logo256.png",
+            "sizes"         : "256x256",
+            "type"          : "image/png"
+        },
+        {
+            "src"           : "https://mayaprojects.net/seyademo/assets/images/app/logo512.png",
+            "sizes"         : "512x512",
+            "type"          : "image/png"
+        }
+    ],
+    "gcm_sender_id": "65184438549"
+}
+  
